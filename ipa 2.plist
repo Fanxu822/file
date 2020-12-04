@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>https://app.flmy.mianyang.cn/static/ipa/ios-1024.png</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>kind</key>
+					<string>full-size-image</string>
+				</dict>
+				<dict>
+					<key>url</key>
+					<string>https://app.flmy.mianyang.cn/static/ipa/ios-60@2x.png</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>kind</key>
+					<string>display-image</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://app.flmy.mianyang.cn/static/ipa/Payload.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>i绵阳</string>
+				<key>bundle-version</key>
+				<string>1.2.4</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>com.pingan.imianyang</string>
+			</dict>
+		</dict>
+	</array>
+</array>
+</plist>
